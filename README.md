@@ -1,1 +1,2 @@
 # 2048-Game-Project
+The 2048 game, created by Gabriele Cirulli in 2014, is a single-player sliding block puzzle played on a 4x4 grid. Players combine numbered tiles by sliding them in four directions (up, down, left, right). When two tiles with the same number collide, they merge into one with their sum. The objective is to create a tile with the number 2048. The game requires strategic planning, and its simplicity led to widespread popularity and various adaptations across platforms.
